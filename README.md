@@ -27,23 +27,11 @@ online shopping system is a [DBMS project] with both admin and user layouts.
 
 8. after creating database import the database file.
 
-9. browse the file in directory [online-shopping-system-advanced/database/onlineshop.sql].
+9. browse the file in directory [https://github.com/KrishnaRevanth123/SHOPPING-WEBSITE/tree/main/database].
 
-10. open any browser and type http://localhost/online-shopping-system-advanced-master.
+10.first register and then login
 
-11.first register and then login
-
-12. admin login details  Email=admin@gmail.com and Password=123456789.
-
-
-## visit my other repository with beautiful admin pages with below link
-
-  https://github.com/PuneethReddyHC/online-shopping-system-with-advanced-admin-page
-  
-  https://github.com/PuneethReddyHC/event-management/
-
-## If you like my project hit a start
-
+11. admin login details  Email=admin@gmail.com and Password=123456789.
 
 ## Screenshots
 ![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-system-advanced/blob/master/screenshot/adduser.png)
