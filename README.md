@@ -9,13 +9,13 @@ online shopping system is a [DBMS project] with both admin and user layouts.
 
 2. Open XAMPP Control panal and start [apache] and [mysql] .
 
-3. Download project from github(https://github.com/PuneethReddyHC/online-shopping-system-advanced.git).
+3. Download project from github(https://github.com/KrishnaRevanth123/SHOPPING-WEBSITE).
  
  OR follow gitbash commands
 
     i>cd C:\\xampp\htdocs\
 
-    ii>git clone https://github.com/PuneethReddyHC/online-shopping-system-advanced.git
+    ii>git clone https://github.com/KrishnaRevanth123/SHOPPING-WEBSITE
 
 4. extract files in C:\\xampp\htdocs\.
 
