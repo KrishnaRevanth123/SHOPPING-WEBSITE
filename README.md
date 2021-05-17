@@ -25,7 +25,7 @@ online shopping system is a [DBMS project] with both admin and user layouts.
 
 7. give a database name as (onlineshop) hit on create button.
 
-8. after creating database name click on import.
+8. after creating database import the database file.
 
 9. browse the file in directory [online-shopping-system-advanced/database/onlineshop.sql].
 
