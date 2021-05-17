@@ -35,10 +35,6 @@ online shopping system is a [DBMS project] with both admin and user layouts.
 
 12. admin login details  Email=admin@gmail.com and Password=123456789.
 
-## If you like my project 
-   Bye me Cup of coffee
-
-### Google pay or phonepay number 9535688928
 
 ## visit my other repository with beautiful admin pages with below link
 
@@ -69,13 +65,5 @@ online shopping system is a [DBMS project] with both admin and user layouts.
 ![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-system-advanced/blob/master/screenshot/storepage1.png)
 
 
-
-
-
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
 
 
